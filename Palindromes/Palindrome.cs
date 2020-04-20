@@ -19,7 +19,7 @@ namespace Palindromes
 
         private void btnCheck_Click(object sender, EventArgs e)
         {
-            // read text from text box
+            // read text from text box to check if it's a palidrome
             string input = txtInput.Text;
             
             // assume the text is a palindrome until proven otherwise
